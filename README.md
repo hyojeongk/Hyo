@@ -1,2 +1,2 @@
-# Hyo
-I am a graphic designer
+# behance.Hyojeongkim.com
+My simple portfolio website powered by the Behance API
